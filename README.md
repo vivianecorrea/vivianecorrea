@@ -18,9 +18,5 @@
   <img align="center" alt="Vivi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vivi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
- <h3> Badges </h3>
-  <div>
-   <a href="https://www.credly.com/badges/dc939cdd-2088-4140-835f-40114b651d8b/public_url"><img align="center" alt="Viviane-cyberEssentials" height="140em"  src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"></a>
-  </div>
 
 
