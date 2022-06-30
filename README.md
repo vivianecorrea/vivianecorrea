@@ -1,5 +1,5 @@
 ## Oiii eu sou a Viviane, seja bem-vindo ao meu perfil ! 
-+ 🎓 1º período de Sistemas de Informação  
++ 🎓 2º período de Sistemas de Informação  
 + 🧰 Apaixonada por criatividade, empreendedorismo, inovação & café (não necessariamente nessa ordem kkk)
 + 📍 Minas Gerais, Brasil 
 <div align="center">
