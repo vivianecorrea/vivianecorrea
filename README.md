@@ -1,7 +1,7 @@
-## Oiii eu sou a Viviane, seja bem-vindo ao meu perfil ! 
-+ 🎓 2º período de Sistemas de Informação  
-+ 🧰 Apaixonada por criatividade, empreendedorismo, inovação & café (não necessariamente nessa ordem kkk)
-+ 📍 Minas Gerais, Brasil 
+## Hello I'm Viviane, be welcome to my profile ! 
++ 🎓 Information Systems (2/8)
++ 🧰 In love about creativity, entrepreneurship , innovation and coffee 
++ 📍 Minas Gerais, Brazil 
 <div align="center">
   <a href="https://github.com/vivianecorrea">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vivianecorrea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
