@@ -1,7 +1,7 @@
 ## Hello I'm Viviane, be welcome to my profile ! 
 
 ### About me 
-+ 🎓 Bacharelor's Degree in progress - Information Systems (2/8)
++ 🎓 Bacharelor's Degree in progress - Information Systems (2/8).
 + 📊 Currently studying and challenging myself in Data Engineering 
 + 🧰 In love about creativity, entrepreneurship , innovation and coffee 
 + 💜 Entusiast about Events, Meetups, Workshops and Hackatons (don't hesitate to invite me haha)
