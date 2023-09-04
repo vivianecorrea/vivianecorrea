@@ -1,7 +1,6 @@
 ## Hello I'm Viviane, be welcome to my profile ! 
 
 ### About me 
-+ 🎓 Bacharelor's Degree in progress - Information Systems (3/8).
 + 📍 Minas Gerais, Brazil 
 
 ### Github stats
