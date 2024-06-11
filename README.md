@@ -1,7 +1,14 @@
-## Hello I'm Viviane, be welcome to my profile ! 
+<img src='1698800776456.jpg'>
+
+## Hello I'm Viviane, but you can call me Vivi!  
 
 ### About me 
-+ 📍 Minas Gerais, Brazil 
+A dedicated professional committed to continuous learning and driven by curiosity, I am completing my degree in Analysis and Systems Development this semester.
+Among my personal goals for this year are:  obtaining the Databricks Data Engineer Associate certification and reaching the next level of fluency in English: C1, to expand my experience as a data engineer in international projects. 
+
+### Certifications 
+[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="90"></a>]([https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path](https://www.databricks.com/en-website-assets/static/59d617a0d0fde89500f1fb046d4470fb/13212.png))
+[<img src="https://www.databricks.com/en-website-assets/static/59d617a0d0fde89500f1fb046d4470fb/13212.png" height="120"></a>]([https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path](https://www.databricks.com/en-website-assets/static/59d617a0d0fde89500f1fb046d4470fb/13212.png))
 
 ### Github stats
 <div>
